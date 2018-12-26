@@ -1,2 +1,2 @@
-# word-game
-A simple C++ based word game
+# myWordGame
+A simple word game written in C++
